@@ -13,10 +13,10 @@ $('img[usemap]').rwdImageMaps();
 </script>
 <title>2018 TC 室內樂團巡演－田園</title>
 </head>
-</head>
+  
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
-<table width="828" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="799" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><img src="http://edm.tc-chambermusic.org/2018-edm-2/TC_edm0817.jpg" alt="2018 Taiwan Connection 室內樂團巡演EDM" width="799" height="1170" usemap="#Map"/></td>
   </tr>
