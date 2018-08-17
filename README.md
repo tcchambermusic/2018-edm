@@ -4,6 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="jquery.rwdImageMaps.js"></script>
+<script> 
+$(document).ready(function(e) { 
+$('img[usemap]').rwdImageMaps(); 
+});
+</script>
+<title>2018 TC 室內樂團巡演－田園</title>
+</head>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
