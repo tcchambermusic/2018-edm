@@ -32,7 +32,7 @@ $('img[usemap]').rwdImageMaps();
 <body>
 <div>
   <h1>2018 TC 室內樂團巡演－田園</h1>
-  <img src="http://edm.tc-chambermusic.org/2018-edm-2/TC_edm0817.jpg" alt="2018 Taiwan Connection 室內樂團巡演EDM" width="799" height="1170" usemap="#Map"/>
+  <img src="http://edm.tc-chambermusic.org/2018-edm/TC_edm0817.jpg" alt="2018 Taiwan Connection 室內樂團巡演EDM" width="799" height="1170" usemap="#Map"/>
   
   <map name="Map">
   <area shape="rect" coords="681,814,759,960" href="http://www.tc-chambermusic.org?utm_source=newsletter&utm_medium=edm_all&utm_campaign=2018_tcmf" target="_blank" alt="購票去">
