@@ -31,7 +31,6 @@ $('img[usemap]').rwdImageMaps();
 
 <body>
 <div>
-  <h1>2018 TC 室內樂團巡演－田園</h1>
   <img src="http://edm.tc-chambermusic.org/2018-edm/TC_edm0817.jpg" alt="2018 Taiwan Connection 室內樂團巡演EDM" width="799" height="1170" usemap="#Map"/>
   
   <map name="Map">
